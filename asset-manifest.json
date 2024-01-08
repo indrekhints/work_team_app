@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/work_team_app/static/css/main.29b95de6.css",
+    "main.js": "/work_team_app/static/js/main.ced40b5e.js",
+    "static/js/787.d166a020.chunk.js": "/work_team_app/static/js/787.d166a020.chunk.js",
+    "static/media/male.jpg": "/work_team_app/static/media/male.481ef88afc01a35da665.jpg",
+    "index.html": "/work_team_app/index.html",
+    "main.29b95de6.css.map": "/work_team_app/static/css/main.29b95de6.css.map",
+    "main.ced40b5e.js.map": "/work_team_app/static/js/main.ced40b5e.js.map",
+    "787.d166a020.chunk.js.map": "/work_team_app/static/js/787.d166a020.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b95de6.css",
+    "static/js/main.ced40b5e.js"
+  ]
+}
